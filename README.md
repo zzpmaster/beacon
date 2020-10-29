@@ -13,4 +13,4 @@ npm link beacon
 
 ## isuse
 
-* tsc --module commonjs  会将打包文件分开打包
+* tsc --module commonjs
